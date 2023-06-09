@@ -1,0 +1,74 @@
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: azure;
+}
+
+a:hover {
+    text-decoration: none;
+    font-size: 20px;
+    color: aqua;
+}
+
+li {
+    list-style: none;
+}
+
+img {
+    width:300px;
+
+}
+
+p {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.submit {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    width: 100px;
+    height: 40px;
+    background: #0096a7;
+    cursor: pointer;
+    color: aliceblue;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.auth-menu {
+    display: flex;
+    align-items: center;
+    background: #424a57; 
+    height: 144px;
+    border-radius: 10px;
+}
+
+.auth-menu-item {
+    margin-left: 20px;
+}
+
+.gallery-wrapper {
+    display: flex;
+    background-color: #0096a7;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.gallery-item {
+    width: 500px;
+}
+
+.gallery-text {
+    width:300px;
+    margin-left: 20px;
+
+}
+
+
